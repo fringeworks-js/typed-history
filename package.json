@@ -1,13 +1,13 @@
 {
-  "name": "@niche-works/typed-history",
-  "version": "0.2.1",
+  "name": "@fringeworks/typed-history",
+  "version": "0.8.0",
   "private": true,
   "keywords": [
     "history"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mitsuhiroseino/niche-works-typed-history.git"
+    "url": "git+https://github.com/fringeworks-js/typed-history.git"
   },
   "license": "MIT",
   "author": "Mitsuhiro Seino",
@@ -26,14 +26,14 @@
     "tidy": "prettier --write \"src/**/*.{ts,tsx,js,jsx,json}\" --config ./prettier.tidy.config.js"
   },
   "dependencies": {
-    "@niche-works/utils": "^0.5.0",
+    "@fringeworks/utils": "^0.8.0",
     "klona": "^2.0.6",
     "remeda": "^2.34.0",
     "tslib": "^2.8.1"
   },
   "devDependencies": {
-    "@niche-works/dev": "^0.5.5",
-    "@niche-works/rollup-plugin-dist-package": "^0.2.2",
+    "@fringeworks/dev": "^0.8.0",
+    "@fringeworks/rollup-plugin-dist-package": "^0.8.0",
     "@types/node": "^25.5.0",
     "@vitest/coverage-v8": "^4.1.8",
     "fast-glob": "^3.3.3",

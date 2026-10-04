@@ -1,4 +1,4 @@
-import { alwaysInput, cloneDeep, cloneShallow } from '@niche-works/utils';
+import { alwaysInput, cloneDeep, cloneShallow } from '@fringeworks/utils';
 import { klona } from 'klona/full';
 import { isFunction } from 'remeda';
 import CursoredList from '../CursoredList';
