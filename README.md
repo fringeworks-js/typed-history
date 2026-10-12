@@ -75,11 +75,11 @@ Internally, one extra entry beyond the specified number is kept, to preserve a s
 
 ### Properties
 
-| Property | Type     | Description                                                           |
-| -------- | -------- | --------------------------------------------------------------------- |
-| `id`     | `string` | The identifier passed to the constructor                              |
-| `length` | `number` | The number of entries currently kept                                  |
-| `cursor` | `number` | The current cursor position (0-based, `-1` when there are no entries) |
+| Property | Type                  | Description                                                           |
+| -------- | --------------------- | --------------------------------------------------------------------- |
+| `id`     | `string \| undefined` | The identifier passed to the constructor                              |
+| `length` | `number`              | The number of entries currently kept                                  |
+| `cursor` | `number`              | The current cursor position (0-based, `-1` when there are no entries) |
 
 ### Methods
 

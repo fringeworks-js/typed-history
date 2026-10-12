@@ -17,7 +17,7 @@ export default class TypedHistory<EntryType = unknown> {
   /**
    * ID
    */
-  readonly id: string;
+  readonly id: string | undefined;
 
   /**
    * エントリー
