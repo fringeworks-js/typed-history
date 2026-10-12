@@ -1,6 +1,6 @@
 # @fringeworks/typed-history
 
-`@fringeworks/typed-history` は、型安全な履歴（Undo/Redo）管理に特化したニッチなライブラリです。\
+`@fringeworks/typed-history` は、型安全な履歴（Undo/Redo）管理に特化した、誰かにとっては便利なライブラリです。\
 任意の型のエントリーをカーソル付きのリストとして保持し、undo/redoのための最小限のAPIを提供します。
 
 **[English README is available here](./README.md)**

@@ -1,6 +1,6 @@
 # @fringeworks/typed-history
 
-`@fringeworks/typed-history` is a niche library specialized in type-safe history (undo/redo) management.\
+`@fringeworks/typed-history` is a library some will find handy, specialized in type-safe history (undo/redo) management.\
 It keeps entries of any type as a cursored list and provides a minimal API for undo/redo.
 
 **[日本語のREADMEはこちら](./README.ja.md)**
